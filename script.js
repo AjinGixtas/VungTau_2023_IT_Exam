@@ -1,3 +1,5 @@
+//The exam's question: https://drive.google.com/file/d/1hT7KMovO2nfeEYPRp-BQCEibM4UaBVMo/view
+
 function question1(input) {
     console.time("q1")
     let result = [1, input]
